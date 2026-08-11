@@ -1,0 +1,25 @@
+type: acceptance_criteria
+version: 1
+
+metadata:
+  id: ....ACCEPTANCE
+  name: ...
+  description: >
+    Acceptance criteria for ...
+
+user_story:
+  id: ...
+
+criteria:
+
+  - id: ...
+    name: ...
+
+    given:
+      ...: ...
+
+    when:
+      ...: true
+
+    then:
+      ...: true
