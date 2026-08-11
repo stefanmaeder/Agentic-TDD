@@ -1,0 +1,15 @@
+type: glossary
+version: 1
+
+metadata:
+  id: ..._glossary
+  name: ... Glossary
+  description: >
+    Ubiquitous Language of ... context.
+
+terms:
+
+  - id: ...
+    name: ...
+    definition: >
+      ...
