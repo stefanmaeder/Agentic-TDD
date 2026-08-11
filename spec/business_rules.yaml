@@ -1,0 +1,15 @@
+type: business_rules
+version: 1
+
+metadata:
+  id: ..._rules
+  name: ... Business Rules
+  description: >
+    Business rules governing ...
+
+rules:
+
+  - id: ...
+    name: ...
+    description: >
+      ...
