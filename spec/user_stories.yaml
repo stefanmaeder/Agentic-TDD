@@ -1,0 +1,27 @@
+type: user_stories
+version: 1
+
+metadata:
+  id: ..._stories
+  name: ... User Stories
+  description: >
+    User-facing capabilities of the context.
+
+stories:
+
+  - id: ...
+    name: ...
+
+    actor: ...
+
+    goal: >
+      ...
+
+    benefit: >
+      ...
+
+    business_rules:
+      - ...
+
+    acceptance_criteria:
+      - ...
